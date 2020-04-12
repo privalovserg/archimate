@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Выполнение требований реализуют бизнес-задачи"
+    id="bd39b107-914e-4031-a7d6-4c15b231239f">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_58bf7282-7411-45ac-9fac-3526993c71d7.xml#58bf7282-7411-45ac-9fac-3526993c71d7"/>
+  <target
+      xsi:type="archimate:Outcome"
+      href="Outcome_fd3cd64c-db5e-476f-8909-f25871721178.xml#fd3cd64c-db5e-476f-8909-f25871721178"/>
+</archimate:RealizationRelationship>
