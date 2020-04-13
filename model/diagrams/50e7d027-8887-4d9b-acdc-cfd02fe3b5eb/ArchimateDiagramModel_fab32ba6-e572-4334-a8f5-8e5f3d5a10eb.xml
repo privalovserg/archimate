@@ -51,7 +51,7 @@
     </sourceConnections>
     <sourceConnections
         id="ff810fb7-d239-422a-bd21-84c37aea3c5e"
-        name="Презентация + Archi + БД"
+        name="Презентация + Archi + (БД???)"
         textPosition="2"
         source="26f7885c-ee6f-4e9a-8f29-9cb0659cb042"
         target="96f2081f-64e1-425c-b28c-675253627275"
@@ -63,7 +63,7 @@
     </sourceConnections>
     <sourceConnections
         id="4a3d8f89-e006-4478-91e3-c6f1e6e32fba"
-        name="Презентация + Archi + БД"
+        name="Презентация + Archi + (БД??)"
         textPosition="2"
         source="26f7885c-ee6f-4e9a-8f29-9cb0659cb042"
         target="eb646686-5f83-43b0-9e74-088c77512cf7"
@@ -201,7 +201,7 @@
         type="64"/>
     <sourceConnections
         id="5b05e19a-0449-48b3-8857-f32fafb6f075"
-        name="10 минут"
+        name="20 минут"
         textPosition="2"
         source="3218f8d7-124f-41cd-9e98-5b988bdcccaa"
         target="2589ec27-82df-4e83-b975-22da33fbe283"
@@ -237,7 +237,7 @@
     </sourceConnections>
     <sourceConnections
         id="51559d9c-ea56-4dd2-a97b-d685815715c4"
-        name="15-20 минут"
+        name="10 минут"
         textPosition="2"
         source="3218f8d7-124f-41cd-9e98-5b988bdcccaa"
         target="eb646686-5f83-43b0-9e74-088c77512cf7"
