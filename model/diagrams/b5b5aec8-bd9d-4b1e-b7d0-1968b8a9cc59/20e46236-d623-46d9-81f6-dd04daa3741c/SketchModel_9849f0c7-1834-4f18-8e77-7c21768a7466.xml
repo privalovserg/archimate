@@ -67,6 +67,16 @@
         source="65712590-c7ba-4b1b-90ff-50cc8b1d8cc0"
         target="c49ea0d9-f88a-4ff7-bf81-4a1b9bd2e899"
         type="1"/>
+    <sourceConnections
+        id="0a5e863a-ec75-48f8-8df6-7096f23c36d1"
+        source="65712590-c7ba-4b1b-90ff-50cc8b1d8cc0"
+        target="c0853e14-b8e5-47ae-913e-5f844c907e48"
+        type="1"/>
+    <sourceConnections
+        id="c9634037-5923-4ec0-bb5e-0839c4c44943"
+        source="65712590-c7ba-4b1b-90ff-50cc8b1d8cc0"
+        target="2d224631-00d7-404d-8876-94aefcda0b59"
+        type="1"/>
     <bounds
         x="1068"
         y="-48"
@@ -824,6 +834,7 @@
       xsi:type="archimate:SketchModelSticky"
       id="c0853e14-b8e5-47ae-913e-5f844c907e48"
       name="Липучка"
+      targetConnections="0a5e863a-ec75-48f8-8df6-7096f23c36d1"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#60ff60"
@@ -838,6 +849,7 @@
       xsi:type="archimate:SketchModelSticky"
       id="2d224631-00d7-404d-8876-94aefcda0b59"
       name="Липучка"
+      targetConnections="c9634037-5923-4ec0-bb5e-0839c4c44943"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#60ff60"
@@ -858,7 +870,7 @@
         target="1c496970-4d23-4064-8a78-18e10a6d4950"
         type="3"/>
     <bounds
-        x="2266"
+        x="2256"
         y="144"
         width="135"
         height="70"/>
