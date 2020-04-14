@@ -1,39 +1,8 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="0.0 Выступление"
+    name="1.1 Выступление"
     id="fab32ba6-e572-4334-a8f5-8e5f3d5a10eb">
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="2589ec27-82df-4e83-b975-22da33fbe283"
-      targetConnections="5b05e19a-0449-48b3-8857-f32fafb6f075">
-    <sourceConnections
-        id="fa935e30-3281-42cc-ade1-2838115c3a7d"
-        name="Соответствие 1С:ERP 3.0 требования м к системе"
-        textPosition="2"
-        source="2589ec27-82df-4e83-b975-22da33fbe283"
-        target="cdd1369a-71c8-4b0b-94f1-e7b3237ff593"
-        type="64">
-      <bendpoints
-          startX="96"
-          startY="-3"
-          endX="-108"
-          endY="-117"/>
-      <bendpoints
-          startX="96"
-          startY="117"
-          endX="-108"
-          endY="3"/>
-    </sourceConnections>
-    <bounds
-        x="312"
-        y="180"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_c4cc2c29-6769-4fac-860d-794c29815a17.xml#c4cc2c29-6769-4fac-860d-794c29815a17"/>
-  </children>
   <children
       xsi:type="archimate:DiagramModelReference"
       id="96f2081f-64e1-425c-b28c-675253627275"
@@ -57,8 +26,8 @@
           endY="-3"/>
     </sourceConnections>
     <bounds
-        x="732"
-        y="408"
+        x="636"
+        y="198"
         width="120"
         height="55"/>
     <referencedModel
@@ -70,8 +39,8 @@
       id="eb646686-5f83-43b0-9e74-088c77512cf7"
       targetConnections="a0e9341e-2739-4bfe-876c-49b1ccb16152 51559d9c-ea56-4dd2-a97b-d685815715c4">
     <bounds
-        x="984"
-        y="552"
+        x="888"
+        y="342"
         width="120"
         height="55"/>
     <referencedModel
@@ -81,7 +50,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="cdd1369a-71c8-4b0b-94f1-e7b3237ff593"
-      targetConnections="fa935e30-3281-42cc-ade1-2838115c3a7d a7485cd2-c69f-4dca-a7a7-701b90b9f52d">
+      targetConnections="a7485cd2-c69f-4dca-a7a7-701b90b9f52d">
     <sourceConnections
         id="2ed4b89e-9348-45be-a722-71f221b8dc3b"
         name="Как 1С:CRM 3.0 реализует требования к системе"
@@ -101,8 +70,8 @@
           endY="-3"/>
     </sourceConnections>
     <bounds
-        x="516"
-        y="294"
+        x="420"
+        y="84"
         width="120"
         height="55"/>
     <referencedModel
@@ -112,18 +81,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3218f8d7-124f-41cd-9e98-5b988bdcccaa">
-    <sourceConnections
-        id="5b05e19a-0449-48b3-8857-f32fafb6f075"
-        name="5 минут"
-        textPosition="2"
-        source="3218f8d7-124f-41cd-9e98-5b988bdcccaa"
-        target="2589ec27-82df-4e83-b975-22da33fbe283"
-        type="64">
-      <bendpoints
-          startX="192"
-          startY="10"
-          endY="526"/>
-    </sourceConnections>
     <sourceConnections
         id="a7485cd2-c69f-4dca-a7a7-701b90b9f52d"
         name="5 минут"
@@ -162,8 +119,8 @@
           endY="154"/>
     </sourceConnections>
     <bounds
-        x="108"
-        y="696"
+        x="12"
+        y="486"
         width="120"
         height="55"/>
     <archimateElement
