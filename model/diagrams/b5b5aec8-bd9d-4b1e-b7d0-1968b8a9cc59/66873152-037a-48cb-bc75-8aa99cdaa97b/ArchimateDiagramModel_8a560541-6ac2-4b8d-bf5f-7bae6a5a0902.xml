@@ -6,7 +6,9 @@
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="452f6172-e71a-45dc-92ac-c573c72aa7ad">
+      id="452f6172-e71a-45dc-92ac-c573c72aa7ad"
+      fontColor="#ffff80"
+      fillColor="#8080c0">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="bfef8dc9-8940-43ba-9c10-56672bd008f1"

@@ -653,7 +653,7 @@
         id="0dfeb29d-bb36-4d68-b62e-aa2b8c5ff6cc"
         targetConnections="870036ed-fe76-4087-897f-a22b698efe7e b33ef288-e114-412a-ac1a-35e6c732d4ef"
         fontColor="#ffff80"
-        fillColor="#8000ff">
+        fillColor="#8080c0">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="38d5a01e-7e64-415f-aff4-656056e08a25"

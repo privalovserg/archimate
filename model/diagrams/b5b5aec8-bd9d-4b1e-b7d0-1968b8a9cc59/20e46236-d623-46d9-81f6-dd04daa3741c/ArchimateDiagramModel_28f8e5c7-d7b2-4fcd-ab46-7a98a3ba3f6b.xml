@@ -6,7 +6,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e6459c34-9bbd-47b7-b37e-aca50ebd453f"
-      targetConnections="8c5d7abf-1289-4e84-9b09-065166cd600b">
+      targetConnections="8c5d7abf-1289-4e84-9b09-065166cd600b"
+      fontColor="#ffff80"
+      fillColor="#8080c0">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="e0a9be27-a43f-4825-8f58-4cc7549e2c6c"
