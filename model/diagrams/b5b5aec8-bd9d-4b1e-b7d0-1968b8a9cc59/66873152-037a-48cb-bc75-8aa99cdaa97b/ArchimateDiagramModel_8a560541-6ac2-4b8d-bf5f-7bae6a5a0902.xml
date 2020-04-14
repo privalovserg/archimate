@@ -306,10 +306,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b8933568-830f-41c3-a062-ca90704516e7"
         targetConnections="95877e83-d618-4ff4-8176-ac63a261a617">
-      <sourceConnections
-          id="41e166a2-773f-42ef-9bef-a34f1efae4d5"
-          source="b8933568-830f-41c3-a062-ca90704516e7"
-          target="f5ad59dc-7562-495a-ad7c-da1d2ce427be"/>
       <bounds
           x="12"
           y="648"
@@ -340,10 +336,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="7c2cbdb4-9196-42c7-87cc-a0d82f029bc0"
         targetConnections="8d37bd03-2564-4405-ad7a-5f86acb6dcc8">
-      <sourceConnections
-          id="387095ca-a178-4ceb-ae12-c320093ce95c"
-          source="7c2cbdb4-9196-42c7-87cc-a0d82f029bc0"
-          target="f5ad59dc-7562-495a-ad7c-da1d2ce427be"/>
       <bounds
           x="12"
           y="768"
@@ -361,7 +353,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="f5ad59dc-7562-495a-ad7c-da1d2ce427be"
       name="Платформа 1С:Предприятие 8.3"
-      targetConnections="332ee70c-4fbf-4039-96f1-0a55c40b5a0e a128f9ef-95f2-4b22-b38f-2066a840d3aa f647e404-ace8-4a8f-b68c-3df1c52bb01f 41e166a2-773f-42ef-9bef-a34f1efae4d5 edb8619e-26fd-4014-bac4-f6f3523d4f8c 387095ca-a178-4ceb-ae12-c320093ce95c 01a1d64d-f570-4d60-898d-6da36ee67564"
+      targetConnections="332ee70c-4fbf-4039-96f1-0a55c40b5a0e a128f9ef-95f2-4b22-b38f-2066a840d3aa f647e404-ace8-4a8f-b68c-3df1c52bb01f edb8619e-26fd-4014-bac4-f6f3523d4f8c 01a1d64d-f570-4d60-898d-6da36ee67564"
       textAlignment="1">
     <bounds
         x="-84"
