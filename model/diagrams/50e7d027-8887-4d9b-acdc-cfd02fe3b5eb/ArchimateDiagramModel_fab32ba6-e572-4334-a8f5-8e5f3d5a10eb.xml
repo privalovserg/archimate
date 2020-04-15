@@ -26,8 +26,8 @@
           endY="-3"/>
     </sourceConnections>
     <bounds
-        x="636"
-        y="198"
+        x="456"
+        y="126"
         width="120"
         height="55"/>
     <referencedModel
@@ -38,9 +38,27 @@
       xsi:type="archimate:DiagramModelReference"
       id="eb646686-5f83-43b0-9e74-088c77512cf7"
       targetConnections="a0e9341e-2739-4bfe-876c-49b1ccb16152 51559d9c-ea56-4dd2-a97b-d685815715c4">
+    <sourceConnections
+        id="93ac7fdd-aa05-4ee9-ae69-04b1157827db"
+        name="Как выглядит работа и поведение системы на примере БП изи ТЗ"
+        textPosition="2"
+        source="eb646686-5f83-43b0-9e74-088c77512cf7"
+        target="cd7e4fd4-cc08-4d25-944f-4c01ef94644e"
+        type="64">
+      <bendpoints
+          startX="96"
+          startY="3"
+          endX="-120"
+          endY="-123"/>
+      <bendpoints
+          startX="96"
+          startY="123"
+          endX="-120"
+          endY="-3"/>
+    </sourceConnections>
     <bounds
-        x="888"
-        y="342"
+        x="708"
+        y="270"
         width="120"
         height="55"/>
     <referencedModel
@@ -70,8 +88,8 @@
           endY="-3"/>
     </sourceConnections>
     <bounds
-        x="420"
-        y="84"
+        x="240"
+        y="12"
         width="120"
         height="55"/>
     <referencedModel
@@ -89,13 +107,13 @@
         target="cdd1369a-71c8-4b0b-94f1-e7b3237ff593"
         type="64">
       <bendpoints
-          startX="408"
+          startX="204"
           startY="-3"
           endY="213"/>
     </sourceConnections>
     <bounds
-        x="12"
-        y="300"
+        x="36"
+        y="228"
         width="120"
         height="55"/>
     <archimateElement
@@ -113,30 +131,58 @@
         target="eb646686-5f83-43b0-9e74-088c77512cf7"
         type="64">
       <bendpoints
-          startX="828"
-          startY="10"
-          endX="-36"
-          endY="154"/>
+          startX="672"
+          startY="-3"
+          endY="219"/>
+      <bendpoints
+          startX="672"
+          startY="-39"
+          endY="183"/>
     </sourceConnections>
     <sourceConnections
         id="91809f0a-46d2-480a-8532-07378060b7ae"
-        name="10 минут"
+        name="5 минут"
         textPosition="2"
         source="aa1f781d-429a-4ea9-a230-d678376bebe5"
         target="96f2081f-64e1-425c-b28c-675253627275"
         type="64">
       <bendpoints
-          startX="612"
-          startY="10"
-          endY="298"/>
+          startX="420"
+          startY="-3"
+          endY="363"/>
+    </sourceConnections>
+    <sourceConnections
+        id="1e36688e-0466-425a-9091-328065ab369a"
+        name="10 минут"
+        textPosition="2"
+        source="aa1f781d-429a-4ea9-a230-d678376bebe5"
+        target="cd7e4fd4-cc08-4d25-944f-4c01ef94644e"
+        type="64">
+      <bendpoints
+          startX="888"
+          startY="-3"
+          endY="93"/>
     </sourceConnections>
     <bounds
-        x="12"
-        y="504"
+        x="36"
+        y="492"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_fa847f37-e250-4d92-ae1a-df8591ffd230.xml#fa847f37-e250-4d92-ae1a-df8591ffd230"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="cd7e4fd4-cc08-4d25-944f-4c01ef94644e"
+      targetConnections="1e36688e-0466-425a-9091-328065ab369a 93ac7fdd-aa05-4ee9-ae69-04b1157827db">
+    <bounds
+        x="924"
+        y="396"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_f0b67aae-473a-41c4-861f-7caf8772a505.xml#f0b67aae-473a-41c4-861f-7caf8772a505"/>
   </children>
 </archimate:ArchimateDiagramModel>
