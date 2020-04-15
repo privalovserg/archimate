@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ожидваемый результат выполнения задач реализует цели проекта"
+    id="5abfff1b-0250-4cd7-b37f-70dac859ffd3">
+  <source
+      xsi:type="archimate:Outcome"
+      href="Outcome_fd3cd64c-db5e-476f-8909-f25871721178.xml#fd3cd64c-db5e-476f-8909-f25871721178"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_2af967a7-7a02-4af4-8e08-69b65e508c63.xml#2af967a7-7a02-4af4-8e08-69b65e508c63"/>
+</archimate:RealizationRelationship>

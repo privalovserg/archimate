@@ -1,0 +1,11 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Получение информации о возможночти доставки (практика)"
+    id="66527a94-df7e-4d7d-80b0-c2faa37f004b">
+  <properties
+      key="ФР1"
+      value="Все есть"/>
+  <properties
+      key="ФР2"
+      value="ничего нет"/>
+</archimate:BusinessFunction>
