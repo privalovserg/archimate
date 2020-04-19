@@ -1,4 +1,15 @@
 <archimate:BusinessInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Бизнес-интерфейс) Телефон, Email"
-    id="777e66e6-0b8c-4ee5-aeb8-65b6640182e4"/>
+    name="(Бизнес-интерфейс) Телефон, Email..."
+    id="777e66e6-0b8c-4ee5-aeb8-65b6640182e4">
+  <properties
+      key="Телефон"
+      value="+78123254400"/>
+  <properties
+      key="Сайт"
+      value="softbalance.ru"/>
+  <properties
+      key="ДО"/>
+  <properties
+      key="CRM"/>
+</archimate:BusinessInterface>
