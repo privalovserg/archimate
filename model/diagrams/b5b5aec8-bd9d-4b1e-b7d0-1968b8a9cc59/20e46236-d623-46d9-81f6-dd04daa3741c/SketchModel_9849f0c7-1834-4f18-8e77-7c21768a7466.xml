@@ -935,4 +935,18 @@
         width="135"
         height="70"/>
   </children>
+  <children
+      xsi:type="archimate:SketchModelSticky"
+      id="a0859c94-498f-480c-9474-452c1e39964f"
+      name="Липучка"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#60ff60"
+      content="Тест">
+    <bounds
+        x="306"
+        y="370"
+        width="135"
+        height="70"/>
+  </children>
 </archimate:SketchModel>
